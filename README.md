@@ -1,5 +1,5 @@
 <p> Здравствуйте здесь вы можете скачать моды и найти ip сервера</p>
-<a href="mods.zip" download>Скачать файл</a>
+<a href="mods.zip" download>Скачать моды</a>
 <style>
   body {
   background: linear-gradient(90deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
@@ -19,3 +19,5 @@
   }
 }
 </style>
+<h1> IP-севера---→UU24.aternos.me</h1>
+<p>Версия 1.20.1</p>
