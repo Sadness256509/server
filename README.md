@@ -1,5 +1,7 @@
 <p> Здравствуйте здесь вы можете скачать моды и найти ip сервера</p>
-<a href="mods.zip" download>Скачать моды</a>
+<body>
+<a href="mods.zip" download><img src="моды.png" alt="htlm" ></a>
+</body>
 <style>
   body {
   background: linear-gradient(90deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
