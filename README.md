@@ -1,4 +1,4 @@
-<h1> Здравствуйте здесь вы можете скачать моды и найти ip сервера</h1>
+<h1> style="color: #000000;" >Здравствуйте здесь вы можете скачать моды и найти ip сервера< </h1>
 <body>
 <a href="mods.zip" download><img src="моды.png" alt="htlm" ></a>
 </body>
@@ -8,5 +8,5 @@
     background-size: 1920px 1080px
 } 
 </style>
-<h1> IP-севера---→UU24.aternos.me</h1>
-<h1>Версия 1.20.1</h1>
+<h1> style="color: #000000;" >IP-севера---→UU24.aternos.me< </h1>
+<h1> style="color: #000000;" >Версия 1.20.1< </h1>
